@@ -1,7 +1,0 @@
-server:
-  port: 9091
-siping:
-  appId: wx3116e33e23e4cb9b
-  secret: 0a903e0848ce428c036c10b968d0496b
-  token: weixin
-  accesstoken: 
