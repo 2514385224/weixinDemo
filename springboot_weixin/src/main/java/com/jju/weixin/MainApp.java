@@ -8,7 +8,16 @@ public class MainApp {
 		SpringApplication.run(MainApp.class, args);
 	}
 	public void getDemo() {
-		
+		System.out.println("提交DEmo");
+		System.out.println("DEmo");
+	}
+	public void getDemo2() {
+		System.out.println("提交DEmo");
+		System.out.println("DEmo");
+	}
+	public void getDemo3() {
+		System.out.println("提交DEmo");
+		System.out.println("DEmo");
 	}
 
 }
