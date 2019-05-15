@@ -15,10 +15,7 @@ public class MainApp {
 		System.out.println("提交DEmo");
 		System.out.println("DEmo");
 	}
-	public void getDemo3() {
-		System.out.println("提交DEmo");
-		System.out.println("DEmo");
-	}
+	
 	public void getDemo4() {
 		System.out.println("提交DEmo");
 		System.out.println("DEmo");
