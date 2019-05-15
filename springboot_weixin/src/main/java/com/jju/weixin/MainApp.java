@@ -24,6 +24,7 @@ public class MainApp {
 		System.out.println("Ã·ΩªDEmo");
 		System.out.println("DEmo");
 	}
+	public void getDemo6() {}
 	
 
 }
