@@ -12,7 +12,7 @@ public class MainApp {
 		System.out.println("DEmo");
 	}
 	
-<<<<<<< HEAD
+
 	public void getDemo2() {
 		System.out.println("提交DEmo");
 		System.out.println("DEmo");
@@ -21,8 +21,7 @@ public class MainApp {
 		System.out.println("提交DEmo");
 		System.out.println("DEmo");
 	}
-=======
->>>>>>> refs/heads/master
+
 	
 	public void getDemo4() {
 		System.out.println("提交DEmo");
@@ -34,5 +33,5 @@ public class MainApp {
 	}
 	public void getDemo6() {}
 	
-
+	public void getDemo7() {}
 }
