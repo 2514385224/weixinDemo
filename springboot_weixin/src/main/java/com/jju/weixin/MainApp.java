@@ -31,4 +31,6 @@ public class MainApp {
 	public void getDemo6() {}
 	
 	public void getDemo7() {}
+	public void getDemo8() {}
+	public void getDemo9() {}
 }
